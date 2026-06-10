@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CareerCopilot AI - Personal Job Application System
 
 ## 🚀 Features
@@ -25,3 +26,6 @@
 ```bash
 git clone https://github.com/yourusername/careercopilot.git
 cd careercopilot
+=======
+# career-copilot-
+>>>>>>> b44a42a0b31540b2ac398509bb96863f9bd5478a
